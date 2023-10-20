@@ -1,0 +1,8 @@
+1.)
+documents > timestamp-folder > all files of current request
+The entrie folder along with additional information like creator-video, giphy, art-works for premium users
+
+2.)
+Load increase
+Deploy on Kubernetes, automatically pod replicates
+Dashboard, graphana, Splunk
